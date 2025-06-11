@@ -13,7 +13,7 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   font-size: 1rem;
-  background-color: #f7bf4f;
+  background-color: #fdb626df;
   color: #060606;
   transition: background-color 0.3s, color 0.3s;
 }
@@ -23,7 +23,7 @@ body {
   top: 0;
   width: 100%;
   background-color: #020202;
-  color: white;
+  color: rgb(234, 172, 110);
   display: flex;
   flex-wrap: wrap;
   align-items: center;
@@ -128,7 +128,7 @@ section p {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background-color: #e90a8c;
+  background-color: #783702;
   color: white;
   border: none;
   font-size: 1.5rem;
