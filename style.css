@@ -13,8 +13,8 @@ body {
   font-family: Arial, sans-serif;
   line-height: 1.6;
   font-size: 1rem;
-  background-color: #f0a818;
-  color: #f40404;
+  background-color: #f7bf4f;
+  color: #060606;
   transition: background-color 0.3s, color 0.3s;
 }
 
