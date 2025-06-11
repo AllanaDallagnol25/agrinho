@@ -79,7 +79,7 @@ body {
 
 .nav-links li a:hover {
   background-color: #ffffff33;
-  color: #ffeb3b;
+  color: #fbe204;
 }
 
 main {
@@ -128,7 +128,7 @@ section p {
   position: absolute;
   top: 50%;
   transform: translateY(-50%);
-  background-color: #3f704d;
+  background-color: #e90a8c;
   color: white;
   border: none;
   font-size: 1.5rem;
@@ -140,7 +140,7 @@ section p {
 }
 
 .carousel-btn:hover {
-  background-color: #2e563b;
+  background-color: #071ac3;
 }
 
 .carousel-btn.left {
